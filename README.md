@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">A passionate software developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahosg2m3&label=Profile%20views&color=0e75b6&style=flat" alt="tahosg2m3" /> </p>
 
